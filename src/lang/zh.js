@@ -8,6 +8,7 @@ export default {
     serviceDeploy: '服务部署',
     batchDeploy: '批量部署',
     pipeline: '流水线',
+    monitor: '监控中心',
     dashboard: '首页',
     introduction: '简述',
     documentation: '文档',
